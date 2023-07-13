@@ -17,7 +17,7 @@ url:                   https://12Ray.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 12Ray 블로그
@@ -360,7 +360,7 @@ plugins:
 
 # Used on index and about sites
  social:
-   name:                <firstname> <lastname>
+   name:                가오리
    links:
      - https://twitter.com/<username>
      - https://github.com/12Ray
