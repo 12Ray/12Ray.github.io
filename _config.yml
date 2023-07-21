@@ -362,7 +362,6 @@ plugins:
  social:
    name:                가오리
    links:
-     - https://twitter.com/<username>
      - https://github.com/12Ray
 
 
