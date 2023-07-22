@@ -362,7 +362,7 @@ plugins:
 # social:
 #   name:                <firstname> <lastname>
    links:
-     - https://twitter.com/<username>
+     - https://twitter.com/12Ray
      - https://github.com/12Ray
 
 
