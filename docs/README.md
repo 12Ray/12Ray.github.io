@@ -1,23 +1,19 @@
 ---
 layout: page
-title: Documentation
+title: Book
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-hide_description: true
+  책을 읽고 기록하기
+hide_description: false
 sitemap: false
 permalink: /docs/
 ---
 
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
-Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/hydecorp/hydejack/issues) on GitHub.
-
-While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
-{:.note}
+책을 읽고 나면 3줄이라도 기록하자
 
 
-## Getting started
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
+
+## 읽은 책 목록
+* [10x Rule]{:.heading.flip-title} --- grant kardon
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
