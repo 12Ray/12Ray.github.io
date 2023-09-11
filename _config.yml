@@ -50,9 +50,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Flutter
-    url:               /example/
+    url:               /flutter/
   - title:             Book
-    url:               /docs/
+    url:               /book/
   - title:             Coffee
     url:               /about/
 

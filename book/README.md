@@ -13,7 +13,7 @@ permalink: /docs/
 
 
 ## 읽은 책 목록
-* [10x Rule]{:.heading.flip-title} --- grant kardon
+* [10xRule]{:.heading.flip-title} --- grant kardon
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
@@ -32,7 +32,7 @@ permalink: /docs/
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
-[install]: install.md
+[10xRule]: 10xRule.md
 [upgrade]: upgrade.md
 [config]: config.md
 [basics]: basics.md
